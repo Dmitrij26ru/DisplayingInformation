@@ -1,0 +1,2 @@
+D:\VSProject\DisplayingInformation\x64\Debug\1.2.exe.lastcodeanalysissucceeded
+D:\VSProject\DisplayingInformation\1.2\x64\Debug\NativeCodeAnalysis.read.1.tlog
